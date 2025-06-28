@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Both Apps" type="CompoundRunConfigurationType">
+    <toRun name="AppSync.search" type="AndroidRunConfigurationType" />
+    <toRun name="AppSync.storage.ui" type="AndroidRunConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>

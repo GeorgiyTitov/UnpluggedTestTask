@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.AppSync" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_700</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="android:textColorPrimary">@color/toolbarText</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>

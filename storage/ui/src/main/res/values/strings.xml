@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Storage</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Fetch data</string>
+    <string name="fragment_search_result_label">Search Results from Local Storage</string>
+    <string name="fragment_item_details_label">Item Details</string>
+    <string name="next">Next</string>
+    <string name="fetch_button_text">Fetch Data</string>
+    <string name="previous">Previous</string>
+    <string name="saving_products_to_database">Saving products to database</string>
+    <string name="data_fetched_from_remote_names_and_ids">Data fetched from remote (names and ids):</string>
+    <string name="sorry_but_any_related_data_not_found">Sorry, but any related data not found</string>
+    <string name="products_with_query_in_any_of_fields">Products with query in any of fields (click for details):</string>
+    <string name="storage_desc">Data fetched from remote and stored to local database</string>
+</resources>

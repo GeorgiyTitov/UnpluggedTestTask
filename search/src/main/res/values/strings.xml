@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search</string>
+    <string name="input_fragment_label">Input Fragment</string>
+    <string name="search">Search</string>
+    <string name="text_hint">Input your search query</string>
+    <string name="secured_apps_are_absent">Secured apps are absent</string>
+</resources>
